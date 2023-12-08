@@ -34,7 +34,7 @@ function PropertiesBoughtPage({ route }) {
                     sort: sort
                 },
                 headers: {
-                    'X-RapidAPI-Key': '0bb5f9893amsh49695b337aa5c24p11e78ejsna5208126dbd6',
+                    'X-RapidAPI-Key': '0bb5f9893amsh49695b337aa5c24p11e78ejsna5208126dbd6', //dev key lol
                     'X-RapidAPI-Host': 'realtor26.p.rapidapi.com'
                 }
             }
